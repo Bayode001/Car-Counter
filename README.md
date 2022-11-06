@@ -1,2 +1,2 @@
 # Car-Counter 
-Check it out: dpearl.netlify.app
+Check it out: https://dpearl.netlify.app/
